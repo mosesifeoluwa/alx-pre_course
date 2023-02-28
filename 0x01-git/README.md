@@ -1,2 +1,1 @@
-My first readme
-My second readme updated
+I am YET to be a Software Engineer
